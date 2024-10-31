@@ -1,0 +1,171 @@
+/* HEADER */
+
+#changeSlideshowContainer {
+    font-size:12px;
+}
+
+#nwpsMenu {
+    margin:15px 0 30px 70px;
+}
+
+#nwpsMenu a.menuItem, #nwpsMenu b {
+    font-size:14px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+#nwpsMenu .menuItem {
+    margin:0 40px 0 0;
+}
+
+#nwpsMenu b, #nwpsMenu a:hover {
+    color:#333;
+    border-bottom: 3px solid #21759b;
+}
+
+#changeSlideshow {
+    display:inline;
+}
+
+#changeSlideshowContainer select {
+    width:170px;
+}
+
+#changeSlideshowContainer {
+    width:280px;
+    display:block;
+}
+
+#addSlideshowButton {
+    float:right;
+}
+
+#addSlideshow {
+    border:2px solid #666;
+    border-top:none;
+    width:400px;
+    padding:20px;
+    padding-top:0;
+    position:absolute;
+    top:120px;
+    left:30px;
+    background:#fff;
+    display:none;
+}
+
+/* FOOTER */
+.nwpFooter {
+    text-align:center;
+    margin-top:30px;
+}
+
+/* COMMON */
+
+.jsmess {
+    display:none;
+}
+.red {
+    color:#CC0000;
+}
+.row {
+    margin:10px 0;
+}
+
+.spacement {
+    width:30px;
+    display:inline-block;
+}
+
+.nbrStyle {
+    width:60px;
+}
+
+.row .label {
+    display:inline-block;
+    width:160px;
+    float:left;
+    padding-top:4px;
+}
+
+input[type="submit"] {
+    cursor:pointer;
+}
+
+#nwpsSettings {
+    font-size:12px;
+    display:inline-block;
+    margin-left:70px;
+}
+
+.clue {
+    font-size:12px;
+    font-style:italic;
+    padding:0 0 0 18px;
+    margin:0 0 0 14px;
+    background:url('../images/info.png') top left no-repeat;
+}
+
+/* OPTIONS */
+.type {
+    display:inline-block;
+}
+.type label {
+    font-weight:bold;
+}
+#advancedOptions {
+    display:none;
+}
+#help span {
+    background:#fff;
+    padding:4px;
+}
+#help {
+    background:#f0c963;
+    padding:15px;
+    margin-top:30px;
+}
+
+/* SLIDES */
+
+#slideLst {
+    padding:0 0 0 20px;
+    background:url('../images/slides.png') top left no-repeat;
+    font-weight:bold;
+    font-size:13px;
+}
+
+#slideLst a, #slideLst b {
+    padding:0 0 0 10px;
+}
+
+#slideTextContent {
+    position:absolute;
+    overflow:hidden;
+}
+
+#slideImgFrame {
+    position:relative;
+    overflow:hidden;
+}
+
+#addSlide {
+    margin:10px 0 0 100px;
+    padding:20px;
+    border:2px solid #666;
+    border-top:none;
+    display:none;
+    position:absolute;
+    background:#fff;
+    z-index:999;
+}
+
+
+
+/* ABOUT */
+
+.aboutP {
+    margin:0 0 60px 20px;
+    padding:0 0 0 20px;
+    border-left:1px solid #ccc;
+}
+
